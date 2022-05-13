@@ -9,7 +9,8 @@ An aspiring full stack web developer
 * 🚀  I'm currently working on [ZenGram](http://zengram.netlify.app/)
 * 🧠  I'm learning Nextjs, Docker, AWS Serverless, GraphQL
 * 🤝  I'm open to collaborating on any Intereseting project related to web development
-* 
+* 📄  Check my resume at [Sanjit's Resume](https://my.indeed.com/api/3/profile/files/resume/mostRecent)
+
  ![](https://komarev.com/ghpvc/?username=sanjitsarkar&style=for-the-badge)
 <a href="https://www.twitter.com/xanjitxarkar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/xanjitxarkar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
