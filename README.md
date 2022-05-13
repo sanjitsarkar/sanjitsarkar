@@ -14,7 +14,6 @@ An aspiring full stack web developer
 <a href="https://www.twitter.com/xanjitxarkar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/xanjitxarkar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
 /></a>
-
 <a href="https://www.github.com/sanjitsarkar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sanjitsarkar?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 ### Skills
