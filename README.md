@@ -3,19 +3,21 @@ Hi 👋 My name is Sanjit Sarkar
 
 An aspiring full stack web developer
 ------------------------------------
-
 * 🌍  I'm based in Barpeta, Assam, India
 * 🖥️  See my portfolio at [sanjitsarkar.tk](http://sanjitsarkar.tk/)
 * ✉️  You can contact me at [ssanjit856@gmail.com](mailto:ssanjit856@gmail.com)
 * 🚀  I'm currently working on [ZenGram](http://zengram.netlify.app/)
 * 🧠  I'm learning Nextjs, Docker, AWS Serverless, GraphQL
 * 🤝  I'm open to collaborating on any Intereseting project related to web development
-
+* 
+ <a href="https://github.com/jalajcodes"><img src="https://camo.githubusercontent.com/dc2d0b48d6059978eff55d24142349883c54abb46ccc2adecbf22bf585e4fb86/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68617273686373706572" alt="jalajcodes" /></a>
 <a href="https://www.twitter.com/xanjitxarkar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/xanjitxarkar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
 /></a>
 <a href="https://www.github.com/sanjitsarkar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sanjitsarkar?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
+
+
 ### Skills
 
 <p align="left">
